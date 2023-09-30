@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 20px;
+}
+
+h1 {
+    color: powderblue;
+    font-family: monospace, sans-serif;
+    line-height: 2;
+    padding: 80px 0px;
+}
+
+a {
+    display: inline-block;
+    color: dodgerblue;
+    font-family: sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: darkblue;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    width: 3%;
+    border-top: 0px;
+    border-bottom: 6px dotted grey;
+    border-right: 0px;
+    border-left: 0px;
+    margin: 100px auto 100px auto;
+}
+
+.top {
+    background-color: #66BFBF;
+    text-align: center;
+}
+
+.fortop {
+    color: powderblue;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.img2 {
+    position: absolute;
+    top: 20px;
+}
+
+.img3 {
+    position: absolute;
+    top: 90px;
+    left: 90px;
+}
+
+.seconddiv {
+    padding: 50px 0;
+    text-align: center;
+}
+.forseconddiv {
+    width: 30%;
+    margin: 0 auto 0 auto;
+}
+    text-align: center;
+}
+
+.thirddiv {
+    padding: 0;
+    position: relative;
+}
+.forthirddiv {
+    width: 30%;
+    margin: 0 auto 0 auto;
+}
+.thirddiv h2 {
+    text-align: center;
+    margin: 0px;
+}
+.thirddiv h3  {
+    text-align: center;
+}
+.img5 {
+    position: absolute;
+    left: 65%;
+    top: 1300px;
+}
+.img6 {
+    position: absolute;
+    right: 68%;
+    top: 1600px;
+}
+
+.lastdiv {
+    margin: 0 auto 0 auto;
+}
+
+.forlastdiv {
+    width: 30%;
+    margin: 40px auto 60px auto;
+}
+.h2lastdiv {
+    text-align: center;
+}
+
+.footerdiv {
+    padding: 50px 0 20px 0;
+    text-align: center;
+    background-color: powderblue;
+}
+.footerdiv p {
+    color: darkblue;
+    font-size: 16px;
+}
+
+.btn { 
+    margin-bottom: 40px;
+    background-color: dodgerblue;
+    border-radius: 8px;
+    font-family: sans-serif;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+.btn:hover {
+    background-color: royalblue;
+}
+
+
