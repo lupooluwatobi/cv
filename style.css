@@ -48,6 +48,10 @@ hr {
     margin-top: 0;
     padding-top: 0;
 }
+.img1 {
+    width: 50%;
+    height: 50%;
+} 
 
 .img2 {
     position: absolute;
